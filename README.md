@@ -1,5 +1,5 @@
 # Keeper App 
-Notes keeper Application created using ReactJS with persistent storage throughout sessions. 
+Notes keeper application created using ReactJS with persistent storage throughout sessions. 
 
 ## Installation & Usage
 In the project directory, you can run:
@@ -24,3 +24,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## License
+This repository falls under [The Unlicense](https://github.com/wolfofdalalst/keeper-app/blob/master/LICENSE).
